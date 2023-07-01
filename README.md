@@ -1,2 +1,2 @@
 # code-challenge-collection
-Collect for future training related work for beginners.
+A code challenge collection for future training-related work for beginners.
